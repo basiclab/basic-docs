@@ -12,6 +12,8 @@ This guide shows you how to automatically format your Python code using **Black*
 * **Black**: An opinionated Python code formatter that auto-formats your code to follow PEP 8 style (so you can stop arguing about whitespace with your teammates).
 * **isort**: Automatically sorts and organizes your imports into neat, logical sections.
 
+<!-- truncate -->
+
 > ⚠️ **Heads up**: Black and isort can sometimes fight over formatting. To avoid this, always configure isort to use Black’s style.
 
 ## Installing Black and isort
