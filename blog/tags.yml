@@ -1,0 +1,19 @@
+gpu:
+  label: GPU
+  permalink: /gpu
+  description: GPU
+
+cuda:
+  label: CUDA
+  permalink: /cuda
+  description: CUDA
+
+multi-gpu:
+  label: Multi-GPU
+  permalink: /multi-gpu
+  description: Multi-GPU
+
+basic-series:
+  label: Basic Series
+  permalink: /basic-series
+  description: A series of basic tutorials for your research
