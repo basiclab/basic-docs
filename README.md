@@ -2,6 +2,12 @@
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
+## TODO
+
+- [ ] From conference to journal
+- [ ] Multi-GPU series (model, data, tensor, pipeline parallelism, maybe with [Megatron-LM](https://github.com/NVIDIA/Megatron-LM)?)
+- [ ] [Triton](https://triton-lang.org/main/index.html) and [Helion](https://helionlang.com) (GPU Python-like programming language)
+
 ## Installation
 
 ```bash
