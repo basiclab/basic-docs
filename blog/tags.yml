@@ -17,3 +17,13 @@ basic-series:
   label: Basic Series
   permalink: /basic-series
   description: A series of basic tutorials for your research
+
+slurm:
+  label: Slurm
+  permalink: /slurm
+  description: Slurm
+
+cloud-computing:
+  label: Cloud Computing
+  permalink: /cloud-computing
+  description: Cloud Computing
