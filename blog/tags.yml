@@ -27,3 +27,8 @@ cloud-computing:
   label: Cloud Computing
   permalink: /cloud-computing
   description: Cloud Computing
+
+package-management:
+  label: Package Management
+  permalink: /package-management
+  description: Package Management
