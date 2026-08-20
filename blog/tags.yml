@@ -32,3 +32,8 @@ package-management:
   label: Package Management
   permalink: /package-management
   description: Package Management
+
+mujoco:
+  label: MuJoCo
+  permalink: /mujoco
+  description: MuJoCo
